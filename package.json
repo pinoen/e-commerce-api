@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "api for e-commerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinoen/e-commerce-api.git"
+  },
+  "author": "pinoen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinoen/e-commerce-api/issues"
+  },
+  "homepage": "https://github.com/pinoen/e-commerce-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
